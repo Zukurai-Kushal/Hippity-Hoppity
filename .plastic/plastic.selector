@@ -1,0 +1,4 @@
+repository "HippityHoppity@HardlyWorkingSCM@cloud"
+  path "/"
+    br "/main"
+    co "/main"
