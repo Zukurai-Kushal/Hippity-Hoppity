@@ -10,3 +10,6 @@ testers have managed to beat the game yet, let alone get the diamond medal at th
 ![Shop](./Gallery/GIF/HH_Shop.gif)
 ![Trampoline Level](./Gallery/GIF/HH_Trampoline_Level.gif)
 ![Victory](./Gallery/GIF/HH_Victory.gif)
+
+## Play the Game
+Play the game by downloading it [here](https://zukku.itch.io/hippityhoppity)
